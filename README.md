@@ -46,7 +46,8 @@ public void GetExchange()
              Dictionary<string, List<SymbolPairsInfo>> listCurrencys = exchangesSet.GetListSymbols();
              GetBalanceCurrency = exchangesSet.GetListBalanceCurrency();
              ListActiveOrders = exchangesSet.GetListActiveOrders();
-             listTickers = exchangesSet.GetTickers(); 
+             listTickers = exchangesSet.GetTickers();
+             .... TODO
       }
 }
 
