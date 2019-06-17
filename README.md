@@ -29,7 +29,7 @@ public MainWindow()
 
 public void GetExchange()
 {
-
+      /// <summary>Loading exchanges.</summary>
       if (exchangesSet == null) exchangesSet = new ExchangesSet("set", "Набор бирж");
       if (exchange == null) exchange = new ExchangeInterface();
       if (exchange.ExchangesCount > 0)
@@ -48,6 +48,12 @@ public void GetExchange()
              ListActiveOrders = exchangesSet.GetListActiveOrders();
              listTickers = exchangesSet.GetTickers();
              .... TODO
+      }
+      /// <summary>Loading only one exchange by name.</summary>
+      private IExchangeInterface GetExchangeByName(string name)
+      {
+            IExchangeInterface exchange = exchangesList.Where(x => x.LibraryName == name).First();
+            return exchange;
       }
 }
 
