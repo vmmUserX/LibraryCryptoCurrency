@@ -1,5 +1,5 @@
 # LibraryCryptoCurrency
-Library Exchange for Crypto Currency Market
+### Library Exchange for Crypto Currency Market
 
 Библиотека для подключения через API следующих Крипто бирж:
 
