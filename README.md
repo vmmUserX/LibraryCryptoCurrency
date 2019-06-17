@@ -29,6 +29,7 @@ public MainWindow()
 
 public void GetExchange()
 {
+
       /// <summary>Loading exchanges.</summary>
       
       if (exchangesSet == null) exchangesSet = new ExchangesSet("set", "Набор бирж");
