@@ -1,7 +1,7 @@
 # C#
 ## Library Exchange for Crypto Currency Market
 
-### Библиотека для подключения через API следующих Крипто бирж:
+### Library to connect through the following API Crypto exchanges:
 
 1 Binance
 
@@ -60,7 +60,8 @@ public void GetExchange()
       }
 }
 
-<p>
-  <img src="https://user-images.githubusercontent.com/40513889/59661595-cf9f2e00-91b3-11e9-9b25-7ecd3547e160.jpg" width="498" />
-  <img src="https://user-images.githubusercontent.com/40513889/59661472-9070dd00-91b3-11e9-9b9f-4e05a50373f8.jpg" width="352" />
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/40513889/59661595-cf9f2e00-91b3-11e9-9b25-7ecd3547e160.jpg" width="480" height="700" hspace="20" />
+  <img src="https://user-images.githubusercontent.com/40513889/59661472-9070dd00-91b3-11e9-9b9f-4e05a50373f8.jpg" width="340" height="700" />
 </p>
