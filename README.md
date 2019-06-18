@@ -60,7 +60,7 @@ public void GetExchange()
       }
 }
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/40513889/59661472-9070dd00-91b3-11e9-9b9f-4e05a50373f8.jpg" />
-  <img src="https://user-images.githubusercontent.com/40513889/59661472-9070dd00-91b3-11e9-9b9f-4e05a50373f8.jpg" />
+<p align="center">200
+  <img src="https://user-images.githubusercontent.com/40513889/59661472-9070dd00-91b3-11e9-9b9f-4e05a50373f8.jpg" weigth="200" />
+  <img src="https://user-images.githubusercontent.com/40513889/59661472-9070dd00-91b3-11e9-9b9f-4e05a50373f8.jpg" weigth="200" />
 </p>
